@@ -1,13 +1,7 @@
-# Fighting Game
-
-## Student Name : Jose Castanon
-## Student ID : 916927796
+# Street Fighter In Java
 
 ## IDE Used: IntelliJ IDEA
 ## Version of Java used: JDK11
-
-## Current working directiory 
-root of repo
 
 ## Running the game 
 In the JAR folder, open the FightingGame.jar file. Be aware that sound will play, so do not have your speakers on blast!
